@@ -1,4 +1,4 @@
-# RIO_SEMI-HUMANOID_FINAL
+# RIO_SEMI-HUMANOID
 RIO boasts the ability to engage in conversations with humans and incorporates facial recognition technology for interaction. This repository contains the code and resources used to create and operate RIO, showcasing the fusion of robotics and artificial intelligence.
 
 The main executive files are in the folder "Main". Some music files have been given in the "Main" folder for sample voice based music player.
